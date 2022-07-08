@@ -6,3 +6,4 @@ https://github.com/rime/rime-cantonese.git
 https://github.com/tongwentang/tongwen-core.git
 https://github.com/gontera/array30
 https://github.com/gontera/array10
+https://github.com/unicode-org/cldr-json
